@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Soluna</string>
+    <string name="wallpaper_service_label">Soluna Live Wallpaper</string>
+    <string name="wallpaper_name">Soluna Celestial</string>
+    <string name="wallpaper_description">Live wallpaper minimalis OLED dengan matahari siang, bulan malam, dan Dynamic Island interaktif.</string>
+</resources>

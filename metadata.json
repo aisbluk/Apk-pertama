@@ -1,0 +1,6 @@
+{
+  "name": "Soluna",
+  "description": "Minimalist OLED live wallpaper with sun and moon celestial cycle, interactive dynamic island, adaptive power saving, and secure end-to-end encrypted synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
